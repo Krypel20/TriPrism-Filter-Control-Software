@@ -206,6 +206,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZT0OgkIJgiAHYn31sQrh-15" value="Fail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZT0OgkIJgiAHYn31sQrh-13">
+          <mxGeometry x="-0.0667" y="-1" relative="1" as="geometry">
+            <mxPoint x="31" y="-188" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jr3TWl8eZr-g_rBumK6a-65" value="HOMING / INITIAL&#xa;CALIBRATION" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="160" y="280" width="147.5" height="40" as="geometry" />
         </mxCell>
