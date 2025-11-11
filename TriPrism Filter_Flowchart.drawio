@@ -133,7 +133,7 @@
         </mxCell>
         <mxCell id="jr3TWl8eZr-g_rBumK6a-55" value="Sucess" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jr3TWl8eZr-g_rBumK6a-53" vertex="1" connectable="0">
           <mxGeometry x="-0.3804" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="56" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jr3TWl8eZr-g_rBumK6a-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jr3TWl8eZr-g_rBumK6a-37" target="jr3TWl8eZr-g_rBumK6a-56" edge="1">
